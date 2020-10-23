@@ -1,4 +1,4 @@
-# Moringa_Datascience_Core_Week7_IP 
+# Multiple Linear Regression, Quantile, Ridge, Lasso and Elastic Net Regression Models
 The repo contains a colab notebook with workings on Supervised Learning - Regression
 
 ## Title
@@ -8,10 +8,11 @@ Supervised Learning - Regression
 Terry Migwi
 
 ## Project Description
-As a Data Scientist, you work for Hass Consulting Company which is a real estate leader with over 25 years of experience. You have been tasked to study the factors that affect housing prices using the given information on real estate properties that was collected over the past few months. Later onwards, create a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables
+
+This project aims to predict the sale of prices of real estate property. Exploratory Data Analysis has been done to study the factors that affect housing prices using information on the real estate properties. Prediction of the sale of prices has been employed given the predictor variables using multiple Linear Regression, Quantile Regression, Ridge Regression, Lasso Regression and Elastic Net Regression 
        
  ## Installation Requirements
-1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Core_Week_7_IP_Notebook.git
+1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Regression-Regularization-Techniques.git
 
 2. Navigate to the project directory: cd pandas
 
